@@ -1,0 +1,17 @@
+.git 
+
+.firebase
+
+.editorConfig
+
+/node-modules
+
+/e2e
+
+/ng-docker-example
+
+.gitignore
+
+*.zip
+
+*.md
